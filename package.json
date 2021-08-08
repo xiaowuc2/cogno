@@ -1,7 +1,7 @@
 {
-  "name": "nuxtjs",
+  "name": "cognoPy",
   "version": "1.0.0",
-  "description": "My astonishing Nuxt App",
+  "description": "Emotion vs Machine Learning : Application",
   "author": "msweeneydev",
   "private": true,
   "scripts": {
