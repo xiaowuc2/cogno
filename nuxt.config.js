@@ -11,7 +11,7 @@ export default {
       {
         hid: 'description',
         name: 'description',
-        content: 'This is an awesome description of my Nuxt app',
+        content: 'Emotion vs Machine Learning : Application',
       },
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
